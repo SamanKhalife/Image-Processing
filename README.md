@@ -38,7 +38,7 @@ This Python-based image processing tool applies several image enhancement algori
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone https://github.com/yourusername/image-processing-uni.git
+   git clone https://github.com/SamanKhalife/Image-Processing-Uni.git
    cd image-processing-uni
    ```
 
