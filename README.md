@@ -1,9 +1,11 @@
 # Image-Processing-Uni
-This Python-based image processing tool applies several image enhancement algorithms, such as sharpening, noise removal, histogram equalization, color enhancement, and brightness/contrast adjustment.
 
 * [Practices Chart](Chart.md)
 
-# Project Overview
+### What is the Main Goal for this project?
+The main goal of this project is to determine which algorithms, and under what conditions, provide the best results in enhancing image quality. This is crucial for improving the accuracy of tasks like license plate recognition, where clearer and higher-quality images lead to better detection and recognition performance.
+
+This Python-based image processing tool applies several image enhancement algorithms, such as sharpening, noise removal, histogram equalization, color enhancement, and brightness/contrast adjustment.
 ## Features
 - **Image Sharpening**: Enhances image details using a custom kernel.
 - **Median Blur**: Reduces noise in the image using a median filter.
