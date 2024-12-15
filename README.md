@@ -1,7 +1,9 @@
 # Image-Processing-Uni
-
 This Python-based image processing tool applies several image enhancement algorithms, such as sharpening, noise removal, histogram equalization, color enhancement, and brightness/contrast adjustment.
 
+* [Practices Chart](Chart.md)
+
+# Project Overview
 ## Features
 - **Image Sharpening**: Enhances image details using a custom kernel.
 - **Median Blur**: Reduces noise in the image using a median filter.
@@ -58,18 +60,13 @@ The tool supports both single image processing and batch processing of images fr
 
 2. **Batch Processing from Folder**:
    ```bash
-   python boom.py --input ./images --output ./processed
+   python boom.py --input ./Data --output ./processed
    ```
 
 ### Command-Line Interface (CLI) Options:
 
 - `--input <image-file-path>`: Specify the image file or folder to process.
 - `--output <output-path>` (optional): Specify the output folder for processed images. If not specified, it will save the images in the current directory.
-
-Example with output folder:
-```bash
-python process_image.py --input sample.jpg --output ./processed
-```
 
 ## Example Output
 
