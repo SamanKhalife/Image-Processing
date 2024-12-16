@@ -1,5 +1,6 @@
 # Image-Processing-Uni
 
+Before the final project these are practices
 * [Practices Chart](Chart.md)
 
 ### What is the Main Goal for this project?
